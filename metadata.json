@@ -1,0 +1,6 @@
+{
+  "name": "EUR Quick Convert",
+  "description": "Instantly converts selected currency amounts to EUR from the context menu with a lightweight, privacy-focused overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EUR Quick Convert</string>
+    <string name="action_convert_to_eur">Convert to EUR</string>
+    <string name="action_convert_short">EUR Convert</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="rates_updated_success">Exchange rates updated</string>
+    <string name="rates_update_failed">Failed to update rates, using cached rates</string>
+    <string name="no_amount_detected">No amount detected</string>
+    <string name="privacy_title">Lightweight &amp; Privacy-Focused</string>
+    <string name="privacy_description">All text parsing and currency calculations occur 100% locally on your device. Your selected text is never sent across the network or stored.</string>
+</resources>
